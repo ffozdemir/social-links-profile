@@ -35,7 +35,7 @@ Mobile View:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/ffozdemir/social-links-profile)
-- Live Site URL: [Live Demo](https://ffozdemir.github.io/social-links-profile)
+- Live Site URL: [Live Demo](https://willowy-figolla-2736b6.netlify.app)
 
 ## My process
 

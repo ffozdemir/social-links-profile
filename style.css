@@ -37,7 +37,7 @@ body {
   gap: 15px;
   width: 320px;
   border-radius: var(--border-radius);
-  padding: 20px;
+  padding: 40px;
 }
 
 .card img {
